@@ -12,6 +12,10 @@ Additionally, this tutorial incorporates both the **original ADMIXTOOLS** develo
 
 ## **📜 Contents of This Repository**
 
+[![Open Stable Tutorial Version 4.8a in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/agonist11/colabadmixtools/blob/main/Test_ColabADMIXTOOLS_V4_8a.ipynb)
+
+[![Open Experimental Tutorial Version 5.0 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/agonist11/colabadmixtools/blob/main/Experimental_ColabADMIXTOOLS_V5_0.ipynb)
+
 ### **🔹 Files Included**
 - **📄 [Test_ColabADMIXTOOLS_V4_8a.ipynb](https://github.com/agonist11/colabadmixtools/blob/main/Test_ColabADMIXTOOLS_V4_8a.ipynb)** – The interactive Python notebook for running ADMIXTOOLS.
 - **📘 [ColabADMIXTOOLS Quickstart Guide 2nd Edition (PDF)](https://github.com/agonist11/colabadmixtools/blob/main/ColabADMIXTOOLS%20Quickstart%20Guide%202nd%20Edition_Draft3.pdf)** – A comprehensive guide explaining installation, dataset selection, and model interpretation.
