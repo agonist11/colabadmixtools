@@ -12,6 +12,8 @@ Additionally, this tutorial incorporates both the **original ADMIXTOOLS** develo
 
 ## **📜 Contents of This Repository**
 
+[![Open ColabADMIXTOOLS Quick-Start Notebook V5.1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agonist11/colabadmixtools/blob/main/ColabADMIXTOOLS_Quick_Start_V5_1.ipynb) ColabADMIXTOOLS Quick-Start Notebook V5.1
+
 [![Open Stable Tutorial Version 4.8a in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agonist11/colabadmixtools/blob/main/Test_ColabADMIXTOOLS_V4_8a.ipynb) Open Stable Tutorial Version 4.8a in Colab
 
 [![Open Experimental Tutorial Version 5.0 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agonist11/colabadmixtools/blob/main/Experimental_ColabADMIXTOOLS_V5_0.ipynb) Open Experimental Tutorial Version 5.0 in Colab.
